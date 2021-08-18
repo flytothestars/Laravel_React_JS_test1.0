@@ -1,0 +1,111 @@
+
+/* general */
+.main {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20%;
+    padding: 15px;
+    width: 700px;
+    height: 540px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.title_main {
+    position: absolute;
+    background: white;
+    height: 20px;
+    margin-top: -28px;
+    margin-left: 10px;
+    padding: 0 10px;
+}
+
+/* left block */
+.info {
+    border: 1px solid gray;
+    border-radius: 5px;
+    float: left;
+    height: 470px;
+    width: 200px;
+    margin-right: 30px;
+}
+.title_left {
+    position: absolute;
+    background: white;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: 75px;
+    padding: 0 10px;
+    color: royalblue;
+    font-size: medium;
+}
+.blockButton {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.buttonStart {
+    margin-right: 10px;
+}
+.buttonReset {
+
+}
+.blockButtonAction {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.auto {
+    
+}
+.autoLeft {
+    padding-right: 10px;
+    display: inline;
+}
+.autoRight {
+    display: inline;
+}
+
+/* right block */ 
+.box {
+    border: 1px solid gray;
+    border-radius: 5px;
+    float: left;
+    height: 450px;
+    width: 450px;
+    padding-top: 20px;
+}
+.title_box {
+    position: absolute;
+    background: white;
+    height: 20px;
+    margin-top: -32px;
+    margin-left: 10px;
+    padding: 0 10px;
+    color: royalblue;
+    font-size: medium;
+}
+
+
+.title_box_inner {
+    position: absolute;
+    background: white;
+    height: 20px;
+    margin-top: -12px;
+    margin-left: 10px;
+    padding: 0 10px;
+    color: royalblue;
+    font-size: medium;
+}
+.box_inner {
+    overflow: scroll;
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+
+.text_in_box {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 2px;
+}
